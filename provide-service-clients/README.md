@@ -6,3 +6,6 @@ wev site name is Grow Tec this wev site service provide related,
 4 . and this wev site login and register verifyed .
 5 . all sensitive route protected private route ,
 wev site link : https://service-auth-4ebdb.web.app/
+
+
+-----------this project for run locally must need---------- install npm , mongodb.
